@@ -68,7 +68,7 @@ def start(update: Update, context: CallbackContext) -> None:
     
 def main() -> None:
     # Set up the Updater and Dispatcher
-    updater = Updater(TELEGRAM_BOT_TOKEN)
+    updater = Updater(7153583503:AAEzqUTYxjIKYghEvEb6rCsW453xXpeDYUc)
     dispatcher = updater.dispatcher
     
     # Register the /start command handler
